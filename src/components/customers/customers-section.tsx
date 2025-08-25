@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Card, CardContent } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
-import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
+import { Card, CardContent } from '../ui/card';
+import { Button } from '../ui/button';
+import { Avatar, AvatarFallback, AvatarImage } from '../ui/avatar';
 import { Star, ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 
 interface Testimonial {

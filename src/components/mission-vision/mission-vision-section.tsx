@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from '../ui/card';
 import { Target, Eye, Heart, Lightbulb } from 'lucide-react';
 
 const MissionVisionSection: React.FC = () => {
